@@ -1,14 +1,4 @@
-Table: Person
-
-+-------------+---------+
-| Column Name | Type    |
-+-------------+---------+
-| personId    | int     |
-| lastName    | varchar |
-| firstName   | varchar |
-+-------------+---------+
-personId is the primary key column for this table.
-This table contains information about the ID of some persons and their first and last names.
+![image](https://user-images.githubusercontent.com/52457475/180772714-789f8acc-516f-4330-99b3-18f0c600c036.png)
  
 
 Table: Address
